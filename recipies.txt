@@ -3,3 +3,5 @@ creating new recipies
 Kheer
 Chicken Biryani
 Chowmien
+Chicken Tandoori
+Maggi
